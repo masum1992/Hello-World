@@ -1,3 +1,3 @@
 # Hello-World
-first repository another brunch
+first repository
  
